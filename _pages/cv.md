@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Iowa, University of Iowa, 2021
+* M.S. in New York, New York University, 2023
+* Ph.D in Computer Science, Clemson University, 2027 (expected)
 
 Work experience
 ======
